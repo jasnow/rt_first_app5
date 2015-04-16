@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: c0939a5038d11ba3b5580ac87dd996cf85c03daa
+  revision: c8bab30ce5a7a40be7a3c7c4271e8ae6d2b303bb
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -91,7 +91,7 @@ GEM
       terminal-table
     diff-lcs (1.2.5)
     docile (1.1.5)
-    domain_name (0.5.23)
+    domain_name (0.5.24)
       unf (>= 0.0.5, < 1.0.0)
     erubis (2.7.0)
     ffi (1.9.8)
