@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 5f844211bebc7a974dc3ff6d67901515369c1840
+  revision: 84601e42b8154ff6f2daadda89c32992bd314e8e
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -111,7 +111,7 @@ GEM
     iniparse (1.4.0)
     json (1.8.2)
     justify (1.0.2)
-    loofah (2.0.1)
+    loofah (2.0.2)
       nokogiri (>= 1.5.9)
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
