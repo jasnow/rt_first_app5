@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 4a7bf07f7e88faf52ce3a5abc834d72fce91e2f2
+  revision: 092057661037ee205acec49404e2166a82342b1a
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -127,7 +127,7 @@ GEM
     method_source (0.8.2)
     mime-types (1.25.1)
     mini_portile (0.6.2)
-    minitest (5.6.1)
+    minitest (5.7.0)
     net-http-digest_auth (1.4)
     net-http-persistent (2.9.4)
     netrc (0.10.3)
