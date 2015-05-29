@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 092057661037ee205acec49404e2166a82342b1a
+  revision: 3bbde989329ac752bca4260f79ac62265870723e
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -158,9 +158,9 @@ GEM
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 3.0)
       netrc (~> 0.7)
-    ruby_parser (3.6.6)
+    ruby_parser (3.7.0)
       sexp_processor (~> 4.1)
-    sexp_processor (4.5.1)
+    sexp_processor (4.6.0)
     simplecov (0.10.0)
       docile (~> 1.1.0)
       json (~> 1.8)
