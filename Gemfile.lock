@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: e60c18931c81a88f4eb89059e955d6ff07c5e26c
+  revision: af01f45f068ea382257090ec8a3aa2579e56dbdc
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -141,7 +141,7 @@ GEM
       ast (>= 1.1, < 3.0)
     posix-spawn (0.3.11)
     ptools (1.3.2)
-    rack (1.6.1)
+    rack (1.6.2)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails-deprecated_sanitizer (1.0.3)
