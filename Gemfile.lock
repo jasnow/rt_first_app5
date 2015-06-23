@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 8e9f57f6cd23ae4c092a9bcd608c7a5e56204dd3
+  revision: f7ac57e8d88de18ab33beaf8a8bec1773f3e8b6e
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -141,7 +141,7 @@ GEM
       ast (>= 1.1, < 3.0)
     posix-spawn (0.3.11)
     ptools (1.3.2)
-    rack (1.6.3)
+    rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails-deprecated_sanitizer (1.0.3)
@@ -181,7 +181,7 @@ GEM
     thor (0.19.1)
     thread_safe (0.3.5)
     tilt (2.0.1)
-    tins (1.5.2)
+    tins (1.5.4)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     unf (0.1.4)
