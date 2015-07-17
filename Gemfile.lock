@@ -1,12 +1,12 @@
 GIT
   remote: git://github.com/rails/arel.git
-  revision: 14df08d80fc363fb9932d9534503b3276d30d9a5
+  revision: 935796f4fd7d75950db87156d6540028a9044fdf
   specs:
     arel (7.0.0.alpha)
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 08e41a043218583d34e34316df82d38e4d7f1b55
+  revision: 2c79122c0bbd61dcef12b95c80e025490d5a9783
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -38,6 +38,7 @@ GIT
       activesupport (= 5.0.0.alpha)
       arel (= 7.0.0.alpha)
     activesupport (5.0.0.alpha)
+      concurrent-ruby (~> 0.9.0)
       i18n (~> 0.7)
       json (~> 1.7, >= 1.7.7)
       minitest (~> 5.1)
@@ -72,6 +73,7 @@ GEM
       mechanize
       nokogiri
       rainbow (~> 2.0.0)
+    concurrent-ruby (0.9.0)
     coveralls (0.8.2)
       json (~> 1.8)
       rest-client (>= 1.6.8, < 2)
@@ -134,7 +136,7 @@ GEM
     nokogiri (1.6.6.2)
       mini_portile (~> 0.6.0)
     ntlm-http (0.1.1)
-    overcommit (0.26.0)
+    overcommit (0.27.0)
       childprocess (~> 0.5.6)
       iniparse (~> 1.4)
     parser (2.2.2.6)
