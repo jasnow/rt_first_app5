@@ -6,7 +6,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 5ffbcf12f38066feeda850e4ee1022d4b2f3a632
+  revision: a293812bffbc6e634e1a6e6794e9dec537d522a3
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -41,6 +41,7 @@ GIT
       concurrent-ruby (~> 0.9.0)
       i18n (~> 0.7)
       json (~> 1.7, >= 1.7.7)
+      method_source
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
@@ -133,7 +134,7 @@ GEM
       rack (>= 1.0)
     rails-deprecated_sanitizer (1.0.3)
       activesupport (>= 4.2.0.alpha)
-    rails-dom-testing (1.0.6)
+    rails-dom-testing (1.0.7)
       activesupport (>= 4.2.0.beta, < 5.0)
       nokogiri (~> 1.6.0)
       rails-deprecated_sanitizer (>= 1.0.1)
@@ -152,7 +153,7 @@ GEM
       json (~> 1.8)
       simplecov-html (~> 0.10.0)
     simplecov-html (0.10.0)
-    sprockets (3.2.0)
+    sprockets (3.3.1)
       rack (~> 1.0)
     sprockets-rails (2.3.2)
       actionpack (>= 3.0)
@@ -167,7 +168,7 @@ GEM
     thor (0.19.1)
     thread_safe (0.3.5)
     tilt (2.0.1)
-    tins (1.5.4)
+    tins (1.6.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     unf (0.1.4)
