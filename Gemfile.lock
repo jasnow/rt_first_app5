@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rack/rack.git
-  revision: dde5b68b8265f03114c111a0c39000b3b8af6485
+  revision: cb2fdee2c553374effe4b50ac13c3122bfccf49d
   specs:
     rack (2.0.0.alpha)
       json
@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 211c31d2718165e68d4676d70eb1315c6b767dcc
+  revision: 2ceb16e539d13bb0f130dddd630776ea13ee9597
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -45,7 +45,7 @@ GIT
       activesupport (= 5.0.0.alpha)
       arel (= 7.0.0.alpha)
     activesupport (5.0.0.alpha)
-      concurrent-ruby (~> 0.9.0)
+      concurrent-ruby (~> 0.9.1)
       i18n (~> 0.7)
       json (~> 1.7, >= 1.7.7)
       method_source
