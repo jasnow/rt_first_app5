@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: c750ca5da8683833109b5b980d029a918c2c0989
+  revision: 4516bb93e913a24949345ed5a7c319f3829eaa82
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -118,7 +118,7 @@ GEM
     overcommit (0.28.0)
       childprocess (~> 0.5.6)
       iniparse (~> 1.4)
-    parser (2.2.2.6)
+    parser (2.2.3.0)
       ast (>= 1.1, < 3.0)
     posix-spawn (0.3.11)
     ptools (1.3.3)
