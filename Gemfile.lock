@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rack/rack.git
-  revision: e836fad64ba3a79f8169ef44aa97b7004fca5e86
+  revision: 2f782ce099989e214466872c797f530b5349357d
   specs:
     rack (2.0.0.alpha)
       json
@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 4516bb93e913a24949345ed5a7c319f3829eaa82
+  revision: 64476e9194388f774a4dd2fa790e69bbd6b6a128
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -76,7 +76,7 @@ GEM
     builder (3.2.2)
     childprocess (0.5.6)
       ffi (~> 1.0, >= 1.0.11)
-    concurrent-ruby (1.0.0.pre3)
+    concurrent-ruby (1.0.0.pre4)
     cvss (0.99.0)
     dawnscanner (1.4.0)
       cvss
