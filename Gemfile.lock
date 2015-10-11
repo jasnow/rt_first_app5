@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: c61826eebcecd62e021cda4086dbcc1497820ac1
+  revision: f50d953ff646b84a1c791a8034cfb4f3789fc8bf
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -149,7 +149,7 @@ GEM
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       sprockets (>= 2.8, < 4.0)
-    sqlite3 (1.3.10)
+    sqlite3 (1.3.11)
     sys-uname (1.0.2)
       ffi (>= 1.0.0)
     terminal-table (1.5.2)
