@@ -13,7 +13,7 @@ GIT
 
 GIT
   remote: git://github.com/rails/rails.git
-  revision: 97cdab0680dfa5856f8ec3dfa85e7fafc7f334ae
+  revision: de732e0015b356507b7c3554bcce2aa8818626c7
   specs:
     actionmailer (5.0.0.alpha)
       actionpack (= 5.0.0.alpha)
@@ -78,7 +78,7 @@ GEM
       ffi (~> 1.0, >= 1.0.11)
     concurrent-ruby (1.0.0.pre4)
     cvss (0.99.0)
-    dawnscanner (1.4.0)
+    dawnscanner (1.4.2)
       cvss
       grit
       haml
